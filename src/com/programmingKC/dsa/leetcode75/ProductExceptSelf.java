@@ -15,6 +15,6 @@ public class ProductExceptSelf {
 	            right *= nums[i];
 	        }
 	        return result;
-	        
+
 	    }
 }

@@ -1,13 +1,13 @@
 package com.programmingKC.dsa.algorithm;
 
 public class BinarySearch {
-	
+
 	public static void main(String args[]) {
 		int [] array = {1,2,3,4,5,6,7,8,9,0};
 		BinarySearch.binarySearch(array, 8);
 	}
-	
- 
+
+
 
 	public static int binarySearch(int[] array, int target) {
         int left = 0, right = array.length - 1;
@@ -23,6 +23,6 @@ public class BinarySearch {
         }
         return -1; // Target not found
     }
-    
-  
+
+
 }

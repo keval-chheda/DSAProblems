@@ -3,7 +3,7 @@ package com.programmingKC.dsa.pattern.slidingwindow;
 import java.util.HashSet;
 
 /**
- * 6522556 -  shrinking from left if found the same character in set and 
+ * 6522556 -  shrinking from left if found the same character in set and
  * increasing from right everytime till length of string
 */
 public class lengthofLongestSubstring {

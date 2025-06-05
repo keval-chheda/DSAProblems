@@ -1,7 +1,6 @@
 package com.hackerrank.dsa.basic;
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class StringPalindrome {
 	public static void main(String[] args) {

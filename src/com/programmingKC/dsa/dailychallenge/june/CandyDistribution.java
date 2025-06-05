@@ -2,8 +2,6 @@ package com.programmingKC.dsa.dailychallenge.june;
 
 import java.util.Arrays;
 
-import java.util.Arrays;
-
 public class CandyDistribution {
     public int candy(int[] ratings) {
         int n = ratings.length;

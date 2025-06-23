@@ -1,10 +1,5 @@
 package com.programmingKC.dsa.leetcode75.BinaryTree;
 
-class TreeNode {
-    int val;
-    TreeNode left, right;
-    TreeNode(int val) { this.val = val; }
-}
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
